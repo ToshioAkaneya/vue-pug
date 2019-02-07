@@ -1,6 +1,6 @@
 {
   "name": "vue-pug",
-  "version": "1.0.0",
+  "version": "2.0.0",
   "description": "Converts Vue template in HTML to Pug templating language (formerly Jade).",
   "main": "index.js",
   "bin": {
