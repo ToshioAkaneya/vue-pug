@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 const argv = require('yargs').argv
 const htmlPugConverter = require('html-pug-converter')
 const cheerio = require('cheerio')
